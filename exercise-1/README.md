@@ -1,6 +1,4 @@
 # Exercise 1
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
+>There is a tide in the affairs of men, Which taken at the flood leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries.
 
-In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
-
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+Further information about the quote can be found at [eNotes](https://www.enotes.com/shakespeare-quotes/there-tide-affairs-men) and [BrainyQuotes](https://www.brainyquote.com/quotes/william_shakespeare_395459).
